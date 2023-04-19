@@ -1,0 +1,15 @@
+{
+  "name": "node-python-app-tutorial",
+  "version": "1.0.0",
+  "description": "AIS Node&Python Tutorial",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
