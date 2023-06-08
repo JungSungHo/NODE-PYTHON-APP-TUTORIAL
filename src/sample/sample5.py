@@ -29,4 +29,5 @@ print("MY FAVORITE THINGS".capitalize())
 print("hello python".title())
 print("Hello".swapcase())
 
+# Link: https://www.javadrive.jp/python/string/index2.html
 # Link: https://www.javadrive.jp/python/string/index12.html
